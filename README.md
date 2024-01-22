@@ -6,7 +6,7 @@
 
 |Week|Algorithm|Problems|
 |:-:|:-:|:-:|
-|1st (2024/01/25)|Recursion|[☑️ Silver 2. 신나는 함수 실행](https://www.acmicpc.net/problem/9184)|
+|1st (2024/01/25)|[Recursion](https://github.com/BOAZ-bigdata/24-1_Study_CodingTestIsEasy/edit/main/1-Recursion)|[☑️ Silver 2. 신나는 함수 실행](https://www.acmicpc.net/problem/9184)|
 |2nd (2024/02/01)|Dijkstra|[☑️ Gold 2. 인간 대포](https://www.acmicpc.net/problem/10473)|
 |3rd (2024/02/08)|MST|[☑️ Gold 4. 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
 |4th (2024/02/15)|Data Structure|[☑️ Gold 4. 스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)|
