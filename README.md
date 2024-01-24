@@ -4,15 +4,18 @@
 
 <div align="center">
 
+<div align="right">✅: 공통 문제</div>
+<div align="right">☑️: 개인 문제</div>
+
 |Week|Algorithm|Problems|
-|:-:|:-:|:-:|
-|1st (2024/01/25)|[Recursion](https://github.com/BOAZ-bigdata/24-1_Study_CodingTestIsEasy/edit/main/1-Recursion)|[☑️ Silver 2. 신나는 함수 실행](https://www.acmicpc.net/problem/9184)|
-|2nd (2024/02/01)|Dijkstra|[☑️ Gold 2. 인간 대포](https://www.acmicpc.net/problem/10473)|
-|3rd (2024/02/08)|MST|[☑️ Gold 4. 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
-|4th (2024/02/15)|Data Structure|[☑️ Gold 4. 스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)|
-|5th (2024/02/22)|Greedy|[☑️ Gold 5. 배](https://www.acmicpc.net/problem/1092)|
-|6th (2024/02/29)|Back Tracking|[☑️ Gold 4. 월드컵](https://www.acmicpc.net/problem/6987)|
-|7th (2024/03/07)|Binary Search|[☑️ Gold 1. K번째 수](https://www.acmicpc.net/problem/1300)|
+|:-:|:-:|:-|
+|1st (2024/01/25)|[Recursion](1-Recursion)|[✅ Silver 2. 신나는 함수 실행](1-Recursion/9184.md)</br>[☑️ [오효근] Platinum 5. 샤워실 바닥 깔기 (Large)](1-Recursion/14601.md)|
+|2nd (2024/02/01)|[Dijkstra](2-Dijkstra)|[✅ Gold 2. 인간 대포](2-Dijkstra/10473.md)|
+|3rd (2024/02/08)|[MST](3-MST)|[✅ Gold 4. 최소 스패닝 트리](3-MST/1197.md)|
+|4th (2024/02/15)|[Data Structure](4-Data-Structure)|[✅ Gold 4. 스카이라인 쉬운거](4-Data-Structure/1863.md)|
+|5th (2024/02/22)|[Greedy](5-Greedy)|[✅ Gold 5. 배](5-Greedy/1092.md)|
+|6th (2024/02/29)|[Back Tracking](6-Back-Tracking)|[✅ Gold 4. 월드컵](6-Back-Tracking/6987.md)|
+|7th (2024/03/07)|[Binary Search](7-Binary-Search)|[✅ Gold 1. K번째 수](7-Binary-Search/1300.md)|
 
 </div>
 
