@@ -9,7 +9,7 @@
 
 |Week|Algorithm|Problems|
 |:-:|:-:|:-|
-|1st (2024/01/25)|[Recursion](1-Recursion)|[✅ Silver 2. 신나는 함수 실행](1-Recursion/9184.md)</br>[☑️ [오효근] Platinum 5. 샤워실 바닥 깔기 (Large)](1-Recursion/14601.md)</br>[☑️ [조은학] Gold 5. 별 찍기 - 10](1-Recursion/2447.md)|
+|1st (2024/01/25)|[Recursion](1-Recursion)|[✅ Silver 2. 신나는 함수 실행](1-Recursion/9184.md)</br>[☑️ [오효근] Platinum 5. 샤워실 바닥 깔기 (Large)](1-Recursion/14601.md)</br>[☑️ [조은학] Gold 5. 별 찍기 - 10](1-Recursion/2447.md)</br>☑️ [권준혁] Gold 1. [트리의 순회](1-Recursion/2263.md)|
 |2nd (2024/02/01)|[Dijkstra](2-Dijkstra)|[✅ Gold 2. 인간 대포](2-Dijkstra/10473.md)|
 |3rd (2024/02/08)|[MST](3-MST)|[✅ Gold 4. 최소 스패닝 트리](3-MST/1197.md)|
 |4th (2024/02/15)|[Data Structure](4-Data-Structure)|[✅ Gold 4. 스카이라인 쉬운거](4-Data-Structure/1863.md)|
