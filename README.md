@@ -10,7 +10,7 @@
 |Week|Algorithm|Problems|
 |:-:|:-:|:-|
 |1st (2024/01/25)|[Recursion](1-Recursion)|[✅ Silver 2. 신나는 함수 실행](1-Recursion/9184.md)</br>[☑️ [오효근] Platinum 5. 샤워실 바닥 깔기 (Large)](1-Recursion/14601.md)</br>[☑️ [조은학] Gold 5. 별 찍기 - 10](1-Recursion/2447.md)</br>[☑️ [권준혁] Gold 1. 트리의 순회](1-Recursion/2263.md)|
-|2nd (2024/02/01)|[Dijkstra](2-Dijkstra)|[✅ Gold 2. 인간 대포](2-Dijkstra/10473.md)</br>[☑️ [조은학] Gold 3. 파티](2-Dijkstra/1238.md)</br>[☑️ [권준혁] Gold 3. 파티](2-Dijkstra/1238_2.md)</br>[☑️ [안지완] Gold 3. 최소비용 구하기 2](2-Dijkstra/11779.md)</br>[☑️ [오효근] Platinum 5. 거의 최단 경로](2-Dijkstra/5719.md)|
+|2nd (2024/02/01)|[Dijkstra](2-Dijkstra)|[✅ Gold 2. 인간 대포](2-Dijkstra/10473.md)</br>[☑️ [조은학] Gold 3. 파티](2-Dijkstra/1238.md)</br>[☑️ [권준혁] Gold 3. 파티](2-Dijkstra/1238_2.md)</br>[☑️ [안지완] Gold 3. 최소비용 구하기 2](2-Dijkstra/11779.md)</br>[☑️ [오효근] Platinum 5. 거의 최단 경로](2-Dijkstra/5719.md)</br>[☑️ [조은학] Gold 4. 네트워크 연결](3-MST/1922.md)</br>[☑️ [안지완] Platinum 4. 유럽 여행](3-MST/1185.md)</br>[☑️ [안지완] Platinum 3. 레드 블루 스패닝 트리](3-MST/4792.md)|
 |3rd (2024/02/08)|[MST](3-MST)|[✅ Gold 4. 최소 스패닝 트리](3-MST/1197.md)</br>[☑️ [오효근] Platinum 5. 행성 터널](3-MST/2887.md)|
 |4th (2024/02/15)|[Data Structure](4-Data-Structure)|[✅ Gold 4. 스카이라인 쉬운거](4-Data-Structure/1863.md)|
 |5th (2024/02/22)|[Greedy](5-Greedy)|[✅ Gold 5. 배](5-Greedy/1092.md)|
