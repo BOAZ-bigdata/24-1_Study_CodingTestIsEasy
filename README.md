@@ -15,7 +15,7 @@
 |4th (2024/02/15)|[Data Structure](4-Data-Structure)|[✅ Gold 4. 스카이라인 쉬운거](4-Data-Structure/1863.md)</br>[☑️ [오효근] Platinum 5. 히스토그램](4-Data-Structure/1725.md)</br>[☑️ [권준혁] Gold 2. 문제집](4-Data-Structure/1766.md)|
 |5th (2024/02/22)|[Greedy](5-Greedy)|[✅ Gold 5. 배](5-Greedy/1092.md)</br>[☑️ [권준혁] Gold 4. 단어 수학](5-Greedy/1339.md)</br>[☑️ [안지완] Gold 5. 강의실 배정](5-Greedy/11000.md)</br>[☑️ [오효근] Platinum 5. 큰 수 만들기](5-Greedy/16496.md)|
 |6th (2024/02/29)|[Back Tracking](6-Back-Tracking)|[✅ Gold 4. 월드컵](6-Back-Tracking/6987.md)|
-|7th (2024/03/07)|[Binary Search](7-Binary-Search)|[✅ Gold 1. K번째 수](7-Binary-Search/1300.md)|
+|7th (2024/03/07)|[Binary Search](7-Binary-Search)|[✅ Gold 1. K번째 수](7-Binary-Search/1300.md)</br>[☑️ [오효근] Gold 4. 공유기 설치](7-Binary-Search/2110.md)|
 
 </div>
 
